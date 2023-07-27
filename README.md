@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andriy Barskyi</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">A passionate back-end developer and QA automation engineer from Ukraine</h3>
 
 - 🔭 I’m currently working on [the Marketplace](https://github.com/Marketplace-Team-Challenge/Marketplace_BE)
 
