@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **barskyiandriy@gmail.com**
 
-- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/1mRpvFbolBNjTpmGd6KdM4PNuPe6wecPM/view?usp=share_link](https://drive.google.com/file/d/127LhKtPcxbiVF1qZgk7RJ27DzffiMcf1/view?usp=drive_link))
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/127LhKtPcxbiVF1qZgk7RJ27DzffiMcf1/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
