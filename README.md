@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andriy Barskyi</h1>
+<h1 align="center">Hi 👋, I'm Andriy Barskyi (Everything here is a little bit outdated)</h1>
 <h3 align="center">A passionate back-end developer and QA automation engineer from Ukraine</h3>
 
 - 🔭 I’m currently working on [the Marketplace](https://github.com/Marketplace-Team-Challenge/Marketplace_BE)
