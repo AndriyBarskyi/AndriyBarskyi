@@ -1,13 +1,12 @@
 # Andriy Barskyi
 
-Golang software engineer from Ukraine.
+Go software engineer from Ukraine.
 
 ---
 
 ### 🔧 Current Focus
 
 - Working on [Fluxion CLI](https://github.com/AndriyBarskyi/fluxion): a command-line tool for efficient file processing, manipulation, and transformation
-- Improving systems design, test automation, and CLI tooling in Go
 
 ---
 
