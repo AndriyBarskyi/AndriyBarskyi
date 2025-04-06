@@ -1,21 +1,13 @@
 # Andriy Barskyi
 
-Back-end developer and QA automation engineer from Ukraine.
+Golang software engineer from Ukraine.
 
 ---
 
 ### 🔧 Current Focus
 
-- Working on [Fluxion CLI](https://github.com/your-repo-if-public): a command-line tool for efficient file processing, manipulation, and transformation
+- Working on [Fluxion CLI](https://github.com/AndriyBarskyi/fluxion): a command-line tool for efficient file processing, manipulation, and transformation
 - Improving systems design, test automation, and CLI tooling in Go
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Go, Java, Python, Bash, JavaScript
-- **Frameworks & Tools:** Spring Boot, Selenium, Postman, Docker, Git, PostgreSQL
-- **Environment:** Arch Linux (LTS), Hyprland, Kitty, fish shell, LazyVim
 
 ---
 
